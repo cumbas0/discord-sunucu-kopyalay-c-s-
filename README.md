@@ -3,7 +3,7 @@
 verdiğim dosyayı indirin  sonra  uygulamayı için sizden Hesap tokeninizi isticek  eğer hesap tokeni ni almayı bilmiyorsanız  aşşağıdaki adımları izleyin
 
 Hesap tokeni alma;
-- Discord a google  üzerinden giriş yapın sonra Discord hesabınıza  girince f12 tuşuna basın  konsola gelin  ve size verdiğim dosya da  token-alma.txt dosyasındaki kodu konsola yapıştırın
+- Discord a google  üzerinden giriş yapın sonra Discord hesabınıza  girince f12 tuşuna basın  konsola gelin  ve size verdiğim dosya da  token-alma.js dosyasındaki kodu konsola yapıştırın
 - 
 - ardından size tokeni verecektir tokeni  verecektir tokeni pc de bir yer de tutun  lazım  olur tekrar.
 
